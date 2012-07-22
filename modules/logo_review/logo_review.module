@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Logo review feature.
+ */
+
+include_once 'logo_review.features.inc';

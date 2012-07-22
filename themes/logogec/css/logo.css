@@ -1,0 +1,56 @@
+.view-logo-list table  {margin: auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.view-logo-list table .panel-col {
+    width: auto;
+}
+
+.view-logo-list table tr {
+    padding: 10px;
+    
+}
+.view-logo-list table td {
+    padding: 10px;
+}
+
+.view-logo-list table td > div {
+    background:url(../images/box_shadow.png) 50% 100% no-repeat;
+    padding-bottom:4px; margin-bottom:12px;
+
+}
+
+.view-logo-list table td > div > div {
+    border:1px dashed #d7dadc;
+    background:#f1f6f9;
+    padding: 10px;
+    font-size: 0.9em;
+    -moz-border-radius:8px;  -webkit-border-radius:8px; -o-border-radius:8px; border-radius:8px;
+}
+.view-logo-list table td > div > div:hover {
+    -webkit-box-shadow: 0px 0px 10px #26B8A3; -moz-box-shadow: 0px 0px 10px #26B8A3; box-shadow: 0px 0px 10px #26B8A3;
+}
+
+div.panel-pane{
+    clear: both;
+}
+
+div.thumbnail {
+    width: 220px;
+    margin: 0 auto 10px auto;
+    background: url(../images/checker.png);
+    line-height: 220px;
+    text-align: center;
+    -webkit-box-shadow: 0px 1px 5px #1F1F21; -moz-box-shadow: 0px 1px 5px #1F1F21; box-shadow: 0px 1px 5px #1F1F21;
+}
+
+div.thumbnail img {
+    vertical-align:middle;
+}
+
+.details-link {
+    text-align: right;
+    margin-right: 10px;
+    font-size: 12px;
+}
