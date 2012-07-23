@@ -215,7 +215,7 @@ ul.pager {overflow:hidden;text-align:center; margin:15px auto 0; font-size:18px;
 
 ul.pager li.pager-current { background:url(../images/bk_pagination_item.png); margin:0 5px;display:block; overflow:hidden; width:41px; height:31px; text-align:center; text-decoration:none; float:left; font-weight:bold; padding:10px 0 0 0; color:#000; }
 
-ul.pager li a { background:url(../images/bk_pagination_item.png);color:#26B8A3; margin:0 5px;display:block;overflow:hidden;  width:41px; height:31px; text-align:center; text-decoration:none; float:left;padding-top:10px; font-weight:bold; }
+ul.pager li a { background:url(../images/bk_pagination_item.png); margin:0 5px;display:block;overflow:hidden;  width:41px; height:31px; text-align:center; text-decoration:none; float:left;padding-top:10px; font-weight:bold; }
 
 ul.pager li a:hover { color:#000; }
 
