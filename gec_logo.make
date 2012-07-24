@@ -11,7 +11,7 @@ core = 7.x
 api = 2
 
 
-
+projects[ctools] = 1.0
 projects[fivestar] = 2.0-alpha2
 projects[votingapi] = 2.6
 projects[l10n_update] = 1.0-beta3
