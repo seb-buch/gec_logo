@@ -99,8 +99,8 @@ variables[site_name] = Logo GEC
 variables[site_slogan] = Choisis ton logo pour le GEC!
 
 
-variables[theme_default] = logogec
-variables[theme_logogec_settings][toggle_logo] = 1
+variables[theme_default] = gec_logo
+variables[theme_gec_logo_settings][toggle_logo] = 1
 variables[theme_logogec_settings][toggle_name] = 1
 variables[theme_logogec_settings][toggle_slogan] = 1
 variables[theme_logogec_settings][toggle_node_user_picture] = 0
