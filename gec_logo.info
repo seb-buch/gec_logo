@@ -49,8 +49,6 @@ dependencies[] = logo_review
 dependencies[] = features
 ; Panels
 dependencies[] = panels
-; Development
-dependencies[] = profiler_builder
 ; Mail
 dependencies[] = simplenews
 ; Views
