@@ -1,3 +1,15 @@
+; Makefile for the gec_logo_profile Install profile.
+; This lives in the same level as the install profile itself
+; A separate stub makefile or 'build' file will fetch Drupal core + this
+install profile,
+; then recursively execute this makefile to fetch the remaining components.
+;
+; Core version to work with
+core = 7.x
+;
+; Drush Make API compatibility version
+api = 2
+
 projects[block] = 7.14
 projects[aggregator] = 7.14
 projects[color] = 7.14
