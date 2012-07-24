@@ -44,7 +44,6 @@ dependencies[] = l10n_update
 dependencies[] = lightbox2
 ; Other
 dependencies[] = logintoboggan
-dependencies[] = standard
 ; Features
 dependencies[] = logo_review
 dependencies[] = features
@@ -100,32 +99,6 @@ variables[site_slogan] = Choisis ton logo pour le GEC!
 
 
 variables[theme_default] = gec_logo
-variables[theme_gec_logo_settings][toggle_logo] = 1
-variables[theme_logogec_settings][toggle_name] = 1
-variables[theme_logogec_settings][toggle_slogan] = 1
-variables[theme_logogec_settings][toggle_node_user_picture] = 0
-variables[theme_logogec_settings][toggle_comment_user_picture] = 0
-variables[theme_logogec_settings][toggle_favicon] = 1
-variables[theme_logogec_settings][toggle_main_menu] = 0
-variables[theme_logogec_settings][toggle_secondary_menu] = 0
-variables[theme_logogec_settings][default_logo] = 0
-variables[theme_logogec_settings][logo_path] = public://home_0.png
-variables[theme_logogec_settings][logo_upload] = 
-variables[theme_logogec_settings][default_favicon] = 1
-variables[theme_logogec_settings][favicon_path] = 
-variables[theme_logogec_settings][favicon_upload] = 
-variables[theme_logogec_settings][zen_breadcrumb] = admin
-variables[theme_logogec_settings][zen_breadcrumb_separator] =  › 
-variables[theme_logogec_settings][zen_breadcrumb_home] = 1
-variables[theme_logogec_settings][zen_breadcrumb_trailing] = 1
-variables[theme_logogec_settings][zen_breadcrumb_title] = 0
-variables[theme_logogec_settings][zen_skip_link_anchor] = main-menu
-variables[theme_logogec_settings][zen_skip_link_text] = Jump to navigation
-variables[theme_logogec_settings][zen_html5_respond_meta][respond] = respond
-variables[theme_logogec_settings][zen_html5_respond_meta][html5] = html5
-variables[theme_logogec_settings][zen_html5_respond_meta][meta] = meta
-variables[theme_logogec_settings][zen_rebuild_registry] = 1
-variables[theme_logogec_settings][zen_wireframes] = 0
 variables[theme_settings][toggle_logo] = 0
 variables[theme_settings][toggle_name] = 1
 variables[theme_settings][toggle_slogan] = 1

@@ -25,6 +25,7 @@ projects[simplenews] = 1.0-rc1
 projects[views] = 3.3
 projects[admin] = 2.0-beta3
 
+project[zen] = 7.x-5.1
 libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
 
