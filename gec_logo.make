@@ -14,7 +14,7 @@ api = 2
 projects[ctools] = 1.0
 projects[fivestar] = 2.0-alpha2
 projects[votingapi] = 2.6
-projects[l10n_update] = 1.0-beta3
+projects[l10n_update] = 1.x-dev
 projects[lightbox2] = 1.0-beta1
 projects[logintoboggan] = 1.3
 
