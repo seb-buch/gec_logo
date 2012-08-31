@@ -15,7 +15,7 @@ projects[ctools] = 1.0
 projects[fivestar] = 2.0-alpha2
 projects[votingapi] = 2.6
 projects[l10n_update] = 1.x-dev
-projects[l10n_update][patch][] = http://drupal.org/files/l10n_update-1490664-sqlite_error-1.patch
+;projects[l10n_update][patch][] = http://drupal.org/files/l10n_update-1490664-sqlite_error-1.patch
 
 projects[lightbox2] = 1.0-beta1
 projects[logintoboggan] = 1.3
