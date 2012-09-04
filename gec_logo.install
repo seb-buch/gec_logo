@@ -1,0 +1,15 @@
+<?php
+/**
+* Implement hook_install().
+*
+* Perform actions to set up the site for this profile.
+*/
+function profilename_install() {
+  include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
+  standard_install();
+  
+  /* Add customized stuff */
+  variable_set('default_theme', 'logogec');
+  variable_set('site_default_country', FR);
+}
+?>
