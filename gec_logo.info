@@ -1,3 +1,6 @@
+name = GEC - Logo
+description = Install with additional stuff for GEC's Logo voting
+
 ; Core
 dependencies[] = block
 dependencies[] = aggregator
