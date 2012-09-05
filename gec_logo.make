@@ -11,21 +11,20 @@ core = 7.x
 api = 2
 
 
-projects[ctools] = 1.0
-projects[fivestar] = 2.0-alpha2
-projects[votingapi] = 2.6
+projects[] = ctools
+projects[] = fivestar
+projects[] = votingapi
 projects[l10n_update] = 1.x-dev
-;projects[l10n_update][patch][] = http://drupal.org/files/l10n_update-1490664-sqlite_error-1.patch
 
-projects[lightbox2] = 1.0-beta1
-projects[logintoboggan] = 1.3
+projects[] = lightbox2
+projects[] = logintoboggan
 
-projects[features] = 1.0-rc3
-projects[panels] = 3.2
-projects[simplenews] = 1.0-rc1
+projects[] = features
+projects[] = panels
+projects[] = simplenews
 
-projects[views] = 3.3
-projects[admin] = 2.0-beta3
+projects[] = views
+projects[] = admin
 
-project[zen] = 7.x-5.1
+project[] = zen
 
